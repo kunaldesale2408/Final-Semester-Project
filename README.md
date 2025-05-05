@@ -13,18 +13,7 @@ ECG images: https://data.mendeley.com/datasets/gwbz3fsgp8/2
 
 The above dataset contains ECG image signals from both healthy individuals and persons with cardiovascular problems.
 
-**PPT LINK:**
 
-https://www.canva.com/design/DAEx1Se7iPs/Xy1tWQVcBt3Oww8hBHEvRg/view?utm_content=DAEx1Se7iPs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-
-**DEPLOYMENT LINK:**
-
-We have deployed our applicaiton in GCP.
-
-https://cmpe255-project-q4uake3apq-uc.a.run.app
-
-Download any image from the below folder path and try uploading it to the above url to get real-time insights.
-https://github.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/tree/main/ECG_IMAGES_DATASET
 
 **Approach:**
 
@@ -40,14 +29,6 @@ One benefit of our app is that the user can view the entire workflow in the UI a
 
 The tricky path here is feature extraction from images; if done correctly and optimally, the accuracy of our model can be increased.
 
-**Abstract Link**: https://github.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/blob/main/docs/Digitizing%20ECG%20signals%20and%20detection%20of%20Cardiovascular%20diseases.docx.pdf
-
-**PROJECT REPORT:** https://github.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/blob/main/docs/Final%20project%20submission.pdf
-
-
-![](https://raw.githubusercontent.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/main/img/Architecture_Diagram.png)
-
-![](https://raw.githubusercontent.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/main/img/Deployment_diagram.png)
 
 **SAMPLE DEMO GIF**
 
