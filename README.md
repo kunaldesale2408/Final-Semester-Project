@@ -30,8 +30,5 @@ One benefit of our app is that the user can view the entire workflow in the UI a
 The tricky path here is feature extraction from images; if done correctly and optimally, the accuracy of our model can be increased.
 
 
-**SAMPLE DEMO GIF**
-
-![](https://raw.githubusercontent.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/main/img/demo.gif)
 
 
